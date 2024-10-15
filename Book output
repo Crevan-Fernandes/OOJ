@@ -1,0 +1,25 @@
+C:\Users\Admin\Desktop>java BookDemo
+Enter the no. of books
+2
+Enter the details for book1:
+Name:
+Harry Potter
+Author:
+JK Rowling
+Price:
+2500
+No. of pages:
+700
+Enter the details for book2:
+Name:
+Lord of the Rings
+Author:
+JRR Tolkien
+Price:
+3000
+No. of pages:
+1000
+Book [name= Harry Potter author= JK Rowling price= 2500.0 No. of pages= 700] 
+Book [name= Lord of the Rings author= JRR Tolkien price= 3000.0 No. of pages= 1000] 
+Name: Crevan Neil Fernandes 
+USN: 1BM23CS082
